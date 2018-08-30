@@ -22,7 +22,6 @@ def scan(s):
 	return result
 
 
-
 def convert_number(word):
 	try:
 		return ('number', int(word))
