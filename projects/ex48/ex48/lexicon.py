@@ -1,5 +1,3 @@
-
-# class Lexicon(object):
 	
 d = {'direction' : ['north', 'south', 'east', 'west', 'down', 'up', 'left', 'right', 'back'],
 	 'verb' : ['go', 'stop', 'kill', 'eat'],
